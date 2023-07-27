@@ -1,0 +1,9 @@
+.vscode
+*.o
+test
+test.*
+*.so
+*.a
+build/
+static/
+test*
